@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'chaos_Example' do
+  pod 'chaos', :path => '../'
+
+  target 'chaos_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
