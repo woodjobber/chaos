@@ -1,0 +1,16 @@
+PODS:
+  - chaos (0.1.0)
+
+DEPENDENCIES:
+  - chaos (from `../`)
+
+EXTERNAL SOURCES:
+  chaos:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  chaos: e423fa98bcbe61fbfe0a2d02aba3baa433483fbc
+
+PODFILE CHECKSUM: d8d9e03eab6a7fffe20d0985de4a1995b45f89e0
+
+COCOAPODS: 1.10.1

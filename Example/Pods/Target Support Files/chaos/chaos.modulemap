@@ -1,0 +1,6 @@
+framework module chaos {
+  umbrella header "chaos-umbrella.h"
+
+  export *
+  module * { export * }
+}

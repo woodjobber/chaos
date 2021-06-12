@@ -1,0 +1,6 @@
+framework module Pods_chaos_Tests {
+  umbrella header "Pods-chaos_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
