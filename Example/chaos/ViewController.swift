@@ -7,12 +7,15 @@
 //
 
 import UIKit
-
+import chaos
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+       let isMatching = Chaos.match(needle: "after", haystack: "Do any additional setup after loading the view, typically from a nib.")
+        if isMatching {
+            print("matching")
+        }
     }
 
     override func didReceiveMemoryWarning() {

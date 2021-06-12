@@ -1,5 +1,5 @@
 PODS:
-  - chaos (0.1.0)
+  - chaos (0.0.1)
 
 DEPENDENCIES:
   - chaos (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  chaos: e423fa98bcbe61fbfe0a2d02aba3baa433483fbc
+  chaos: 0a6d78afa2e70e39ebd42986ecb2759fac33e2c2
 
 PODFILE CHECKSUM: d8d9e03eab6a7fffe20d0985de4a1995b45f89e0
 
